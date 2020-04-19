@@ -1,0 +1,60 @@
+#pattern-container {
+  width: 500px;
+  padding: 10px;
+  border: 10px solid #696969;
+  border-radius: 10px;
+  background-color: #e9ebee;
+  text-align: center;
+}
+
+.flat-button {
+  height: 30px;
+  margin-top: 20px;
+  border-radius: 5px;
+}
+
+.flat-button:hover {
+  cursor: pointer;
+}
+
+.flat-button:focus {
+  outline: 0;
+}
+
+#number-input {
+  width: 80%;
+  height: 25px;
+  font-size: 16px;
+  text-align: center;
+}
+
+#error-message-length {
+  display: none;
+  color: red;
+}
+
+#radio-container {
+  text-align: left;
+  margin-left: 160px;
+}
+
+#number-input-submit {
+  width: 120px;
+}
+
+.number {
+  font-size: 24px;
+  color: red;
+}
+
+.explanation {
+  color: blue;
+}
+
+.nav-button {
+  width: 90px;
+}
+
+.nav-button {
+  display: none;
+}
