@@ -156,6 +156,7 @@ function displayToUser() {
   let explanation;
   let resultDiv = document.getElementById("result");
   resultDiv.innerHTML = "";
+  
   if (bestKey[4] === "multiplyThenAdd") {
     firstMessage = "Multiply by ";
     secondMessage = "add ";
